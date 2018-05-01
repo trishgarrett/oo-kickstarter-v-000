@@ -11,8 +11,8 @@ class Backer
     #binding.pry
     @backed_projects << project
     @backers <<  name
-    
+
   end
 
-  
+
 end
